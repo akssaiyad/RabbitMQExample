@@ -1,1 +1,1 @@
-# RabbitMQExample
+# RabbitMQExample For Magento 2
